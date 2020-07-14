@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         text.setText("0:30");
         seekbar.setProgress(30);
         countDownTimer.cancel();
-        press.setText("Go!");
+        press.setText("Go!!");
         seekbar.setEnabled(true);
         counterIsActive = false;
     }
